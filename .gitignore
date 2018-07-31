@@ -1,6 +1,7 @@
 slprj
-*.exp
-*.mexw64
+*acc.exp
+*acc.mexw64
 *.sty
 *acc.lib
-
+*.swp
+Library
